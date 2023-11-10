@@ -1,5 +1,5 @@
 body {
-    background-color: red;
+    background-color: saddlebrown;
      background-image: url('');
       background-size: cover;
       background-repeat: no-repeat;
@@ -15,7 +15,7 @@ h1 {
   border-style: solid;
   border-width: 5px;
   font-size: 40px ;
-  border-color: yellow;
+  border-color: orange;
 }
 
 h4{
@@ -27,7 +27,7 @@ h4{
   border-style: solid;
   border-width: 5px;
   font-size: 40px ;
-  border-color: yellow;
+  border-color: orange;
 }
 
 h5 {
@@ -39,7 +39,7 @@ h5 {
   border-style: solid;
   border-width: 5px;
   font-size: 40px ;
-  border-color: yellow;
+  border-color: orange;
 }
 
 h6 {
@@ -51,7 +51,7 @@ h6 {
   border-style: solid;
   border-width: 5px;
   font-size: 40px ;
-  border-color: yellow;
+  border-color: orange;
 }
 
 p {
@@ -71,7 +71,7 @@ img {
 }
 
 #invisibletext {
-color:red;
+color: saddlebrown;
 }
 
 #headertext2 {
@@ -87,5 +87,5 @@ button {
   font-size: 16px;
   cursor: pointer;
   text-align: center;
-  border-color: yellow;
+  border-color: red;
 }
