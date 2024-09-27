@@ -1,5 +1,5 @@
 body {
-    background-color: lightyellow;
+    background-color: darkgreen;
      background-image: url('');
       background-size: cover;
       background-repeat: no-repeat;
@@ -15,7 +15,7 @@ h1 {
   border-style: solid;
   border-width: 5px;
   font-size: 40px ;
-  border-color: skyblue;
+  border-color: lightyellow;
 }
 
 h4{
@@ -27,7 +27,7 @@ h4{
   border-style: solid;
   border-width: 5px;
   font-size: 40px ;
-  border-color: skyblue;
+  border-color: lightyellow;
 }
 
 h5 {
@@ -39,7 +39,7 @@ h5 {
   border-style: solid;
   border-width: 5px;
   font-size: 40px ;
-  border-color: skyblue;
+  border-color: lightyellow;
 }
 
 h6 {
@@ -51,7 +51,7 @@ h6 {
   border-style: solid;
   border-width: 5px;
   font-size: 40px ;
-  border-color: skyblue;
+  border-color: lightyellow;
 }
 
 p {
@@ -85,7 +85,7 @@ button {
   font-size: 16px;
   cursor: pointer;
   text-align: center;
-  border-color: lightpink;
+  border-color: lightyellow;
 }
 
 .details-example {
@@ -97,7 +97,7 @@ button {
   border-style: solid;
   border-width: 5px;
   font-size: 40px ;
-  border-color: skyblue;
+  border-color: lightyellow;
 }
 
 div {
